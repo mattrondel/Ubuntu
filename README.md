@@ -1,3 +1,5 @@
+Plex is offline even after mount -a and sudo service plexmediaserver restart doesnt work 
+
 remote desktop installed but rdp shows black screen when logging in :
 
 To solve this issue, there is a simple fix.  You need to ensure the account you are using to login via the remote 
