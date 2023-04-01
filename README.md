@@ -19,3 +19,6 @@ now run rdp again
 once you see the desktop hit cancel on the password
 activities> firefox > open plex > open plex or login
 try it aagin on the client side
+
+supossidly this will fix it but I am not ready to break something yet...
+https://askubuntu.com/questions/1155053/remote-connecting-to-ubuntu-18-04-from-windows-remote-desktop-login-failed-for
