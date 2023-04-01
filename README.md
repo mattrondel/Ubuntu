@@ -12,7 +12,7 @@ run a show users with:
 
 that give you the PID
 
-Then you can kill the user session.
+Then you can kill the user session. not the tty one but any other one there
 
 #### kill "pid"
 now run rdp again
