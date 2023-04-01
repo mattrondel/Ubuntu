@@ -14,3 +14,4 @@ Then you can kill the user session.
 kill "pid"
 now run rdp again
 once you see the desktop hit cancel on the password
+activities> firefox > open plex
