@@ -1,3 +1,4 @@
+Plex server issues and fixes:
 Plex is offline even after mount -a and sudo service plexmediaserver restart doesnt work 
 every X days plex need a reauthorization using its credentials, so you will need to console in or use a physical monitor to re-authoriza the session
 
@@ -22,5 +23,5 @@ activities> firefox > open plex > open plex or login
 try it aagin on the client side
 once working restart the system through putty
 
-supossidly this will fix it but I am not ready to break something yet...
+Supposedly this will fix it but I am not ready to break something yet...
 https://askubuntu.com/questions/1155053/remote-connecting-to-ubuntu-18-04-from-windows-remote-desktop-login-failed-for
