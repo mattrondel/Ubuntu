@@ -3,7 +3,7 @@ Plex is offline even after mount -a and sudo service plexmediaserver restart doe
 every X days plex need a reauthorization using its credentials, so you will need to console in or use a physical monitor to re-authoriza the session
 
 Issue:
-Remote desktop is installed but rdp shows black screen when logging in :
+Remote desktop (xrdp) is installed but rdp shows black screen when logging in :
 
 To solve this issue, there is a simple fix.  You need to ensure the account you are using to login via the remote 
 desktop client is not currently logged on locally on the Ubuntu target machine. 
